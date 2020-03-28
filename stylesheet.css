@@ -17,6 +17,7 @@ span {
 	background-color: rgba(50, 115, 220, 0.3);
 	display: inline-block;
 	text-align: center;
+	margin: 0px auto;
 	position: relative;
 	padding: 12px 50px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
