@@ -19,21 +19,25 @@ nav{
    
 }
 h1{
+	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,0,128)
 
 }
 h2{
+	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(30,144,255)
 
 }
 h3{
+	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,191,255)
 	
 }
 ul{
+	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,0,255)
 	
