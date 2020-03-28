@@ -27,9 +27,14 @@ nav{
 	margin: 10px auto;
 	display: inline-table;
 	display:inline;
-	display:inline-block;
 	font-family:"Comic Sans MS", cursive, sans-serif;
    
+}
+.nav li{
+	display:inline-block;
+}
+.nav a{
+    display:inline-block;
 }
 p{
 	font-family:  "Lucida Console", Monaco, monospace;
