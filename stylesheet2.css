@@ -27,10 +27,12 @@ nav{
     width: 75%;
 	text-align: center;
 	margin: 0px auto;
-	text-decoration: none;
+	
 	font-family:"Comic Sans MS", cursive, sans-serif;
-   
+   	text-decoration: none;
 }
+
+
 ul{
 	font-family: 'Lato', sans-serif;
 	color: rgb(255,69,0)
