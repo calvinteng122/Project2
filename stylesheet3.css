@@ -2,6 +2,7 @@ body {
 	background-color:rgb(255,192,203);
 }
 span {
+	margin: 10px auto;
 	background-color: rgb(0,206,209);
 	display: inline-block;
 	text-align: center;
@@ -9,10 +10,10 @@ span {
 	padding: 12px 50px;
 }
 nav{
-    width: 75%;
+        width: 75%;
 	text-align: center;
 	margin: 0px auto;
-	display: inline-table;
+	display: inline-block;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	text-decoration: none;
    
