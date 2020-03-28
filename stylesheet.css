@@ -14,13 +14,13 @@ h3{
 	font-family: 'Lato', sans-serif;
 }
 span {
-	background-color: rgba(50, 115, 220, 0.3);
+	margin: 10px auto;
 	display: inline-block;
 	text-align: center;
-	margin: 10px auto;
 	position: relative;
-	padding: 12px 50px;
+	background-color: rgba(50, 115, 220, 0.3);
 	font-family:"Comic Sans MS", cursive, sans-serif;
+	padding: 12px 50px;
 }
 nav{
     width: 75%;
