@@ -95,6 +95,9 @@
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,0,255)	
 }
+.pc video{
+	text-align: center;
+}
  span{
 	text-align: center;
 	margin: 10px auto;
