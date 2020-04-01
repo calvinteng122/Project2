@@ -16,7 +16,7 @@
 	background-color: rgb(245,245,220);
 }
 #hometownnavigation{
-    width: 75%;
+        width: 75%;
 	text-align: center;
 	margin: 10px auto;
 	text-decoration: none;
@@ -71,32 +71,24 @@
 	color: rgb(255,69,0)	
 }
 .pc h1{
-	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,0,128)
 }
 .pc h2{
-	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(30,144,255)
 }
 .pc h3{
-	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,191,255)
 }
 .pc p{
-	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,191,255)
 }
 .pc ul{
-	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: rgb(0,0,255)	
-}
-.pc video{
-	text-align: center;
 }
  span{
 	text-align: center;
